@@ -1,6 +1,6 @@
 {
-  "name": "FCV/varbase-pantheon",
-  "description": "Project template for Varbase distribution on Pantheon.",
+  "name": "vardot/varbase-project",
+  "description": "Project template for Varbase distribution.",
   "type": "project",
   "license": "GPL-2.0-or-later",
   "authors": [
